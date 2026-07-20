@@ -1,0 +1,10 @@
+{
+  "name": "zrobione",
+  "version": "1.0.0",
+  "description": "Zrobione - Frontend + Backend",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
